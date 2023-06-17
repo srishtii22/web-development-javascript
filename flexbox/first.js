@@ -1,2 +1,6 @@
-let square=(a)=>a*a;
-console.log(square(6));
+// arrow functions
+
+let sum=function(a,b){
+    return a+b;
+
+};
